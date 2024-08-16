@@ -1,0 +1,17 @@
+Mouse-based Cue Ball Function:
+The decision to use a mouse-based cue function was to enhance user interaction and simulate the real-life experience of aiming and striking the cue ball. This functionality allows the player to control the direction and force of the cue ball by with a click of the mouse.
+For aiming: The player adjust the mouse accordingly for the direction of the shot.
+For the force control: The distance between the mouse click and the cue ball will determine the force applied to the cue ball.
+
+Unique Extension Features:
+All of the unique extensions are featured in "gameMode 4". The aim of this extension was to introduce a more unique and challenging gameplay of the snooker game:
+Disappearing Pocket Holes: When the cue ball enters a pocket hole, a random pocket hole will disappear. 
+Introducing a Purple-Colored Ball: When the purple colored ball enters a pocket hole, it will results in an immediate loss / game over for the player.
+A few reasons why I decided to implement these extensions was to increase the difficulty of the game. 
+By removing the pocket holes , it changes the game's dynamics, forcing the player to come up with different strategies. For example, when there are missing pocket holes, it requires a careful placement of colored balls to ensure scoring remains viable.  
+By introducing the purple ball , it immediately adds a risk factor, which may influence players' shot choices. It could impact a player's decision-making during shots and it fosters a heightened sense of vigilance.
+Also, these rule modifications offer a fresh twist to traditional snooker, engaging players differently.It offers a combination of familiarity and excitement through the integration of innovative alterations, challenging players to strategise and adapt.
+
+Implementation of Win Conditions:
+For my snooker project, a scoreboard has been integrated, but with a different win condition. Instead of accumulating scoring points, players will focus on pocketing each colored ball on the table at least once to secure a win.
+By implementing this win condition, the game shifts its focus from point accumulation to a more strategic gameplay approach, challenging players to maneuver and pocket each colored ball strategically. This requires precise shot planning and execution for a successful win.
